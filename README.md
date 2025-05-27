@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>QR Code Scanner(HTML, CSS, JavaScript)</b>
-  - [Responsive and Functional QR Code Scanner](https://github.com/gbemio/Qr-code-scanner)
+  - [Responsive and Functional QR Code Scanner](https://github.com/gbemio/qr-code-scanner)
 - <b>Color Game App(React)</b>
   - [Responsive Color game app](https://github.com/gbemio/Color-game) 
 - <b>Profile card(HTML, CSS, JavaScript)</b>
