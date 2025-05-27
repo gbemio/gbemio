@@ -3,11 +3,11 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>QR Code Scanner(HTML, CSS, JavaScript)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Responsive and Functional QR Code Scanner](https://github.com/gbemio/Qr-code-scanner)
 - <b>Color Game App(React)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Responsive Color game app](https://github.com/gbemio/Color-game) 
 - <b>Profile card(HTML, CSS, JavaScript)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Responsive Profile Card](https://github.com/gbemio/Profile-card)
 
 <h2> 🤳 Connect with me:</h2>
 
