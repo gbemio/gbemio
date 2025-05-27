@@ -4,7 +4,7 @@
 
 - <b>QR Code Scanner(HTML, CSS, JavaScript)</b>
   - [Responsive and Functional QR Code Scanner](https://github.com/gbemio/qr-code-scanner)
-- <b>Color Game App(React)</b>
+- <b>Color Game App(HTML, CSS, JavaScript)</b>
   - [Responsive Color game app](https://github.com/gbemio/Color-game) 
 - <b>Profile card(HTML, CSS, JavaScript)</b>
   - [Responsive Profile Card](https://github.com/gbemio/Profile-card)
